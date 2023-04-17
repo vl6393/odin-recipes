@@ -4,8 +4,45 @@
     font-weight: bold;
 }
 
-li {
-    color: blue;
+#title-lasagna {
+    color: green;
+}
+
+.header.lasagna {
+    background-color: rgb(214, 37, 37);
+}
+
+
+.text{
+    color: blueviolet;
+    font-style: oblique;
     font-size: 20px;
+}
+
+
+.list{
+    color: blue;
+    font-size: 15px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.list1-lasagna {
+    font-weight: bold;
+}
+
+.list.list2-lasagna {
+    font-weight: bolder;
+    color: blueviolet;
+}
+
+
+.index {
+    font-style: italic;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+
